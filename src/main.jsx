@@ -46,10 +46,10 @@ function App() {
             <div className="eyebrow"><span className="pulse"></span> OPEN TO SOFTWARE ENGINEERING OPPORTUNITIES</div>
             <p className="hello">Hello, I'm</p>
             <h1>Amit <span>Bandivaddar.</span></h1>
-            <h2>Aspiring Software Engineer <b>·</b> Java Backend Developer</h2>
+            <h2>Aspiring Software Engineer <b>·</b> Python Backend Developer</h2>
             <p className="intro">
               I build backend-focused applications and enjoy solving problems with
-              Java, Spring Boot and SQL. I’m a Computer Science student who is
+              Python, Spring Boot and SQL. I’m a Computer Science student who is
               continuously learning and turning ideas into practical software.
             </p>
             <div className="hero-actions">
@@ -67,7 +67,7 @@ function App() {
               <div className="window-top"><i></i><i></i><i></i><span>developer.java</span></div>
               <pre><code><em>public class</em> Developer {"{"}{"\n"}  String name = <strong>"Amit"</strong>;{"\n"}  String focus = <strong>"Backend"</strong>;{"\n"}{"\n"}  <em>void</em> build() {"{"}{"\n"}    learn();{"\n"}    create();{"\n"}    improve();{"\n"}  {"}"}{"\n"}{"}"}</code></pre>
             </div>
-            <div className="floating-tag">☕ Java · Spring Boot</div>
+            <div className="floating-tag">☕ Python · Spring Boot</div>
             <div className="hero-caption">Building. Learning. Improving.</div>
           </div>
         </section>
@@ -137,7 +137,7 @@ function App() {
         <section className="education">
           <div className="container education-inner">
             <div className="section-label">04 / EDUCATION</div>
-            <div><h2>Computer Science Engineering</h2><p>University Visvesvaraya College of Engineering (UVCE)</p><span className="muted">B.E. · Add your expected graduation year</span></div>
+            <div><h2>Computer Science Engineering</h2><p>University Visvesvaraya College of Engineering (UVCE)</p><span className="muted">B.E. · Graduated in: 2027</span></div>
           </div>
         </section>
 
