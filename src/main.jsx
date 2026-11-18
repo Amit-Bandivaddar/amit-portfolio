@@ -67,7 +67,7 @@ function App() {
               <div className="window-top"><i></i><i></i><i></i><span>developer.java</span></div>
               <pre><code><em>public class</em> Developer {"{"}{"\n"}  String name = <strong>"Amit"</strong>;{"\n"}  String focus = <strong>"Backend"</strong>;{"\n"}{"\n"}  <em>void</em> build() {"{"}{"\n"}    learn();{"\n"}    create();{"\n"}    improve();{"\n"}  {"}"}{"\n"}{"}"}</code></pre>
             </div>
-            <div className="floating-tag">☕ Python · Spring Boot</div>
+            <div className="floating-tag">☕ Python · Java · Spring Boot</div>
             <div className="hero-caption">Building. Learning. Improving.</div>
           </div>
         </section>
